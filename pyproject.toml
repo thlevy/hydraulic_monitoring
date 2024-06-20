@@ -2,7 +2,7 @@
 name = "hydraulic-monitoring"
 version = "0.1.0"
 description = ""
-authors = ["Thomas Levy <thomas.levy@aleia.com>"]
+authors = ["Thomas Levy <thom.levy@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
