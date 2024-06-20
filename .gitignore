@@ -1,0 +1,11 @@
+#VS code files
+.vscode
+
+#Pyenv file
+.python-version
+
+text/
+.venv/
+processed/
+
+.env
