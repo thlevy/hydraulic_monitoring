@@ -15,7 +15,9 @@ Le dossier data contient les 3 fichiers de données suivants, chaque ligne repr�
 
 
 ## Contenu
-Les résultats sont actuellement présentés sous forme de notebooks.
+Les résultats sont actuellement présentés sous forme de notebooks:
+* Analyse: Analyse rapide des données
+* Classifieur: Construction et évaluation d'un classifieur
 
 ## Comment utiliser
 * Cloner le repo localement
