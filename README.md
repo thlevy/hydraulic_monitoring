@@ -21,7 +21,7 @@ Les résultats sont actuellement présentés sous forme de notebooks.
 * Cloner le repo localement
 * Puis, créer un environement virtuel (plutôt avec poetry)
 
-## Pour créer un environement virtuel avec les librairies nécéssaires
+## Pour créer un environement virtuel avec les librairies nécéssaires (avec poetry)
 Il faut utiliser poetry:
 * install [poetry](https://python-poetry.org/docs/)
 * run `poetry install`
